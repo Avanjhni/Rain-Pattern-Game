@@ -1,0 +1,1 @@
+export type ColorTheme = 'blues' | 'rainbow' | 'fire' | 'neon' | 'pastel';
